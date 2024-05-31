@@ -7,14 +7,10 @@ The goal of this project is to use Solidity, a programming language for Ethereum
 Getting Started
 
 Installing
-How/Where to Download Your Program
+To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
-Clone the repository from GitHub:
-git clone https://github.com/yourusername/your-repo-name.git
+Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., HelloWorld.sol). Copy and paste the following code into the file:
 
-Any Modifications Needed to Be Made to Files/Folders
-Ensure you have the necessary Solidity compiler installed.
-No modifications are needed to the default file structure.
 
 Executing program
 How to Run the Program
@@ -38,8 +34,7 @@ Ensure your Solidity compiler version matches the specified range.
 If you encounter issues with the compiler, try updating to a compatible version.
 Verify the Ethereum development environment is correctly set up.
 
-command to run if program contains helper info
-If using Remix, check the "Compile" and "Deploy & Run Transactions" tabs for detailed error messages and guidance.
+
 
 Authors
 Contributors names and contact info
